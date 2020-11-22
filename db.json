@@ -20,15 +20,15 @@
     "movies": 
  {
      "100": [
-         '100': [
+        
          {
-             'id': '01',
-             'name': 'OTHAIKU OTHA',
-             'imgpath': 'images/aaa.jpg',
-             'trailer':'https://www.youtube.com/watch?v=h9ZKnjRsMps',
-             'storyline': 'A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.',
-             'director':'V.Z. Dhorai',
-             'stars': 'Sundar C, Sakshi Chaudhary, VTV Ganesh'
+             "id": "01",
+             "name": "OTHAIKU OTHA",
+             "imgpath": "images/aaa.jpg",
+             "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
+             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
+             "director":"V.Z. Dhorai",
+             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
          },
         {
             "id": "02",
