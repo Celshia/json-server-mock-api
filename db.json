@@ -1,9 +1,7 @@
 {
     "cities": [
          
-    "Chennai|1", "Coimbatore|2", "Dindigul|3", "Erode|4", "Kanniyakumari|5",
-    "Karur|6", "Madurai|7", "Salem|8", "Trichy|9",
-    "Tirunelveli|10", "Tirupur|11", "Vellore|12", "Virudhunagar|13"
+    "Chennai|1", "Coimbatore|2", "Dindigul|3"
  ],
     "theaters": 
 {
@@ -15,36 +13,6 @@
     ],
     "3": [
         "Carnival Cinemas|300", "J Cinemas|301"
-    ],
-    "4": [
-        "Maharaja Cinemas|400", "Vsp Cinema Hall|401"
-    ],
-    "5": [
-        "FOIN XD CINEMA|500", "Government Open Air Theathre|501"
-    ],
-    "6": [
-        "Thinnappa Theatre|600", "Ajantha Ellora Cinemas|601"
-    ],
-    "7": [
-        "Ambika Cinemas|700", "Jazz & Arsh|701", " INOX Vishaal De Mall|702", "Ganesh Theatre|703"
-    ],
-    "8": [
-        "Arrs Cinemas|800", "Big Cinemas|801"
-    ],
-    "9": [
-        "L A Cinemas|900", "Cauvery Cinema Hall|901"
-    ],
-    "10": [
-        "PVR Cinemas|1000", "RAM MUTHURAM CINEMAS|1001", "Bombay Theatre|1002", "TPV Multiplex|1003"
-    ],
-    "11": [
-        "Usha Multiplex|1100", "Cine Park Theatre|1101"
-    ],
-    "12": [
-        "PVR Cinemas|1200", "Aascars Cinemas Vellore|1201"
-    ],
-    "13": [
-        "Apsara Cinema Hall |1300", "Chitras Cinema Hall|1301"
     ]
 },
 
@@ -52,11 +20,16 @@
     "movies": 
  {
      "100": [
-        {
-            "id": "01",
-            "name": "OTHAIKU OTHA",
-            "imgpath": "images/aaa.jpg"
-        },
+         '100': [
+         {
+             'id': '01',
+             'name': 'OTHAIKU OTHA',
+             'imgpath': 'images/aaa.jpg',
+             'trailer':'https://www.youtube.com/watch?v=h9ZKnjRsMps',
+             'storyline': 'A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.',
+             'director':'V.Z. Dhorai',
+             'stars': 'Sundar C, Sakshi Chaudhary, VTV Ganesh'
+         },
         {
             "id": "02",
             "name": "DARBAR",
@@ -135,160 +108,6 @@
         }
     ],
     "301": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "400": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "401": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "500": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "501": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "600": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "601": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "700": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "701": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "702": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "800": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "801": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "900": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "901": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1000": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1001": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1002": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1003": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1100": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1101": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1200": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1201": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg"
-        }
-    ],
-    "1300": [
         {
             "id": "01",
             "name": "IRUTTU",
