@@ -68,102 +68,147 @@
         }
     ],
     "101": [
-        {
+        { 
             "id": "01",
-            "name": "SOORARAI POTRU",
+             "name": "Frozen",
+             "imgpath": "images/aaa.jpg",
+             "trailer":"https://www.youtube.com/watch?v=R-cdIvgBCWY",
+             "storyline": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+             "director":" Chris Buck, Jennifer Lee, Stevie Wermers, Kevin Deters",
+             "stars": " Idina Menzel, Kristen Bell, Josh Gad, Jonathan Groff"
+        },
+          {
+            "id": "02",
+            "name": "Avatar",
             "imgpath": "images/bbb.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
-             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+              "trailer":"https://www.youtube.com/watch?v=5PSNL1qE6VY",
+             "storyline": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+             "director":"James Cameron",
+             "stars": " Sam Worthington, Zoe Saldana, Sigourney Weaver"
         }
     ],
     "102": [
         {
             "id": "01",
-            "name": "SOORARAI POTRU",
-            "imgpath": "images/bbb.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
-             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+            "name": "The Chronicles of Narnia",
+            "imgpath": "images/fff.jpg",
+              "trailer":"https://www.youtube.com/watch?v=pYcGFLgJ8Uo",
+             "storyline": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+             "director":" Andrew Adamson",
+             "stars": " Tilda Swinton, Georgie Henley, William Moseley"
+        },
+        {
+         "id": "02",
+            "name": " Pirates of the Caribbean",
+            "imgpath": "images/eee.jpg",
+              "trailer":"https://www.youtube.com/watch?v=naQr0uTrH_s",
+             "storyline": "Capt. Jack Sparrow (Johnny Depp) arrives at Port Royal in the Caribbean without a ship or crew. His timing is inopportune, however, because later that evening the town is besieged by a pirate ship. The pirates kidnap the governor's daughter, Elizabeth (Keira Knightley), who's in possession of a valuable coin that is linked to a curse that has transformed the pirates into the undead. A gallant blacksmith (Orlando Bloom) in love with Elizabeth allies with Sparrow in pursuit of the pirates.",
+             "director":"Gore Verbinski, Joachim Rønning, Espen Sandberg, Rob Marshall",
+             "stars": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley"
         }
     ],
     "200": [
         {
             "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
-             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+            "name": "The Lord of the Rings",
+            "imgpath": "images/ggg.jpg",
+              "trailer":"https://www.youtube.com/watch?v=V75dMMIW2B4",
+             "storyline": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+             "director":"Peter Jackson",
+             "stars": "Elijah Wood, Ian McKellen, Orlando Bloom, Viggo Mortensen"
+        },
+         {
+            "id": "02",
+            "name": "Interstellar ",
+            "imgpath": "images/ddd.jpg",
+              "trailer":"https://www.youtube.com/watch?v=2LqzF5WauAw",
+             "storyline": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+             "director":"Christopher Nolan",
+             "stars": " Matthew McConaughey, Anne Hathaway, Jessica Chastain"
         }
     ],
     "201": [
         {
             "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
+            "name": "Inception",
+            "imgpath": "images/hhh.jpg",
+              "trailer":"https://www.youtube.com/watch?v=YoHD9XEInc0",
              "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+             "director":"Christopher Nolan",
+             "stars": " Leonardo DiCaprio, Joseph Gordon-Levitt"
         }
     ],
     "202": [
-        {
-            "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
-             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+  {
+         "id": "01",
+            "name": " Pirates of the Caribbean",
+            "imgpath": "images/eee.jpg",
+              "trailer":"https://www.youtube.com/watch?v=naQr0uTrH_s",
+             "storyline": "Capt. Jack Sparrow (Johnny Depp) arrives at Port Royal in the Caribbean without a ship or crew. His timing is inopportune, however, because later that evening the town is besieged by a pirate ship. The pirates kidnap the governor's daughter, Elizabeth (Keira Knightley), who's in possession of a valuable coin that is linked to a curse that has transformed the pirates into the undead. A gallant blacksmith (Orlando Bloom) in love with Elizabeth allies with Sparrow in pursuit of the pirates.",
+             "director":"Gore Verbinski, Joachim Rønning, Espen Sandberg, Rob Marshall",
+             "stars": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley"
         }
     ],
     "203": [
         {
             "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
-             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+            "name": " Home Alone",
+            "imgpath": "images/iii.jpg",
+              "trailer":"https://www.youtube.com/watch?v=CK2Btk6Ybm0",
+             "storyline": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+             "director":" Chris Columbus",
+             "stars": " Macaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara"
+        },
+           {
+            "id": "02",
+            "name": "The Avengers",
+            "imgpath": "images/ccc.jpg",
+              "trailer":"https://www.youtube.com/watch?v=eOrNdBpGMv8&list=PL5hoFI9gmzUZUgNW5jioGZELp5_ZmmWqE&index=2&t=0s",
+             "storyline": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+             "director":"Joss Whedon, Joe Russo, Anthony Russo",
+             "stars": "Scarlett Johansson, Robert Downey, Jr., Chris Evans"
         }
     ],
     "204": [
-        {
+ { 
             "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
-             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+             "name": "Frozen",
+             "imgpath": "images/aaa.jpg",
+             "trailer":"https://www.youtube.com/watch?v=R-cdIvgBCWY",
+             "storyline": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+             "director":" Chris Buck, Jennifer Lee, Stevie Wermers, Kevin Deters",
+             "stars": " Idina Menzel, Kristen Bell, Josh Gad, Jonathan Groff"
         }
     ],
     "300": [
-        {
+       {
             "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
-             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+            "name": "The Lord of the Rings",
+            "imgpath": "images/ggg.jpg",
+              "trailer":"https://www.youtube.com/watch?v=V75dMMIW2B4",
+             "storyline": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+             "director":"Peter Jackson",
+             "stars": "Elijah Wood, Ian McKellen, Orlando Bloom, Viggo Mortensen"
         }
     ],
     "301": [
-        {
+      {
             "id": "01",
-            "name": "IRUTTU",
-            "imgpath": "images/aaa.jpg",
-              "trailer":"https://www.youtube.com/watch?v=h9ZKnjRsMps",
-             "storyline": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
-             "director":"V.Z. Dhorai",
-             "stars": "Sundar C, Sakshi Chaudhary, VTV Ganesh"
+            "name": "Interstellar ",
+            "imgpath": "images/ddd.jpg",
+              "trailer":"https://www.youtube.com/watch?v=2LqzF5WauAw",
+             "storyline": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+             "director":"Christopher Nolan",
+             "stars": " Matthew McConaughey, Anne Hathaway, Jessica Chastain"
+        },
+           {
+            "id": "02",
+            "name": " Home Alone",
+            "imgpath": "images/iii.jpg",
+              "trailer":"https://www.youtube.com/watch?v=CK2Btk6Ybm0",
+             "storyline": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+             "director":" Chris Columbus",
+             "stars": " Macaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara"
         }
     ]
     
