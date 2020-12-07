@@ -1,4 +1,4 @@
-# Holidayapp-db-SQL
+# Moviebooking_db
 
 #### Task #1: Create Database
 ```
